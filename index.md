@@ -2,14 +2,21 @@
 
 Bienvenue sur mon GitHub Page, ici vous retrouverez tous mes mods que j'ai crée et que je vous mettrez bien sûr à votre disposition sur le site.
 
+## Support ou Aides
+
+Si tu veux plus de détail vas sur mon discord où j'aiderait les personnes qui rencontreront des problèmes avec mes mods
+
+### Sur quel serveur je travaille ?
+
+Je suis en train de traviller sur le serveur PyroPixel qui est un serveur pvp faction et semi-rp moddé j'y suis en tant que developper skript et java où je fais plugins, mods, et skripts.
+
+### Me contacter
+
+Si tu as un problème ne trouvant sa réponse ni dans le discord ni sur le site contacte moi via mon e-mail : vidorjeux@outlook.fr
+je serais à votre écoute
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FUGALMC/mods/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## SUR CE JE VOUS SOUHAITE UNE BONNE VISITE SUR MON SITE
